@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Alexander R.</h1>
 <h2 align="center">I'm a beginner frontend developer</h2>
 
-My main development skills: JavaScript, TypeScript, React, Redux
-⚛💻🚀
+<h3>My main development skills: JavaScript, TypeScript, React, Redux</h3>
+<div>⚛💻🚀<div>
 
 
 
