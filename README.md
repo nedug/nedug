@@ -1,7 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Alexander R.</h1>
-<h3 align="center">I'm a beginner frontend developer</h3>
+<h2 align="center">I'm a beginner frontend developer</h2>
 
-- 💬 Ask me about **reactjs, redux, redux-saga,mobx, nodejs**
+My main development skills: JavaScript, TypeScript, React, Redux
+⚛💻🚀
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
