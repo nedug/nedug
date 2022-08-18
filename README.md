@@ -2,12 +2,11 @@
 <h2 align="center">I'm a beginner frontend developer</h2>
 
 <h3>My main development skills: JavaScript, TypeScript, React, Redux ⚛💻🚀</h3>
+
 <br>
   
-<h3 align="left">Link to my Portfolio:</h3>
-<a href="[mailto:ru55nedug@gmail.com](https://nedug.github.io/cv-alexander-r/)" target="_blank">Portfolio</a>
-  
-  
+<h3 align="left">Link to my Portfolio:</h3><a href="[mailto:ru55nedug@gmail.com](https://nedug.github.io/cv-alexander-r/)" target="_blank">Portfolio</a>
+   
 <br>
 
 <h3 align="left">Connect with me:</h3>
