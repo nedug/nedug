@@ -10,10 +10,6 @@
  <a href="[mailto:ru55nedug@gmail.com](https://nedug.github.io/cv-alexander-r/)" target="_blank">Portfolio</a>
   
   
-  [Link to Telegram](https://t.me/health_count_bot)
- [Portfolio](https://t.me/health_count_bot](https://nedug.github.io/cv-alexander-r/)
-  
-  
 <br>
 
 <h3 align="left">Connect with me:</h3>
