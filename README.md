@@ -5,7 +5,8 @@
 
 <br>
   
-<h3 align="left">Link to my Portfolio:</h3><a href="[mailto:ru55nedug@gmail.com](https://nedug.github.io/cv-alexander-r/)" target="_blank">Portfolio</a>
+<h3 align="left">Link to my Portfolio:</h3>
+<a href="https://nedug.github.io/cv-alexander-r/" target="_blank">Portfolio</a>
    
 <br>
 
