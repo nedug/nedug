@@ -6,7 +6,8 @@
 
 <br>
   
- <h3 align="center">Link to my Portfolio:</h3>
+ <h3 align="left">Link to my Portfolio:</h3>
+ [Portfolio](https://t.me/health_count_bot](https://nedug.github.io/cv-alexander-r/)
   
   
 <br>
