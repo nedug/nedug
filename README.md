@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:ru55nedug@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:ru55nedug@gmail.com" target="_blank"><img align="center" src="https://pnggrid.com/wp-content/uploads/2021/04/Gmail-Transparent-Logo-1024x768.png" alt="email" height="30" width="40" /></a>
 </p>
 
 
