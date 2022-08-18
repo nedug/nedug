@@ -5,7 +5,7 @@
 <h3>My main development skills: JavaScript, TypeScript, React, Redux ⚛💻🚀</h3>
 
   
-<h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="_blank">Portfolio</a></h3>
+<h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="blank">Portfolio</a></h3>
 
 
 <h3 align="left">Connect with me:</h3>
