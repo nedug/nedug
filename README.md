@@ -5,7 +5,7 @@
 
 <br>
   
-<h3 align="left">Link to my Portfolio: <a href="https://nedug.github.io/cv-alexander-r/" target="_blank">link</a></h3>
+<h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="_blank">Portfolio</a></h3>
 
    
 <br>
