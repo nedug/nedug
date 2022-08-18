@@ -2,7 +2,6 @@
 <h2 align="center">I'm a beginner frontend developer</h2>
 
 <h3>My main development skills: JavaScript, TypeScript, React, Redux ⚛💻🚀</h3>
-<div><div>
 
 <br>
   
