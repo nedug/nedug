@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Alexander R.</h1>
-<h2 align="center">I'm a beginner frontend developer</h2>
+<h1 align="center">Hi there 👋, I'm a beginner frontend developer!</h1>
+<h2 align="center">My name is Alexander R.</h2>
 
 
 <h3>My main development skills: JavaScript, TypeScript, React, Redux ⚛💻🚀</h3>
