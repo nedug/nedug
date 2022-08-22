@@ -2,7 +2,7 @@
 <h2 align="center">My name is Alexander R.</h2>
 
 
-<h3>Main development skills: JavaScript, TypeScript, React, Redux ⚛💻🚀</h3>
+<h3>Main development skills: JavaScript, TypeScript, React, Redux  ⚛💻🚀</h3>
 
   
 <h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="blank">Portfolio</a></h3>
