@@ -1,10 +1,11 @@
 <h1 align="center">Hi there 👋, I'm a beginner frontend developer!</h1>
 <h2 align="center">My name is Alexander R.</h2>
 
+<hr>
+
 
 <h3>Main development skills: JavaScript, TypeScript, React, Redux &nbsp;💻⚛🚀</h3>
 
-<hr>
   
 <h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="blank">Portfolio</a></h3>
 
