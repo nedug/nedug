@@ -13,3 +13,5 @@
 </p></h3>
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{nedug}/count.svg" /></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{nedug}/count.svg)
