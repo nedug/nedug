@@ -19,7 +19,5 @@
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedug&layout=compact&langs_count=4&theme=dark&bg_color=000&title_color=fff&text_color=fff&hide=HTML"/>
   <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nedug&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&count_private=true">
-   <hr>
-  <img width="842em" src="https://activity-graph.herokuapp.com/graph?username=nedug&theme=xcode&bg_color=000" />
   </a>
 </div>
