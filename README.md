@@ -15,7 +15,7 @@
 <div align="center">
  <hr>
   <a href="https://profile-summary-for-github.com/user/nedug">
-    <img  height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedug&layout=compact&langs_count=4&theme=dark&bg_color=000&title_color=fff&text_color=fff&hide=HTML"/>
+    <img  height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedug&layout=compact&langs_count=4&theme=dark&bg_color=000&title_color=fff&text_color=fff&exclude_repo=HTML-CSS"/>
     &nbsp;&nbsp;&nbsp;
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nedug&show_icons=true&theme=dark&bg_color=000&title_color=fff&text_color=fff&count_private=true"/>
   </a>
