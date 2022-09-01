@@ -4,6 +4,7 @@
 
 <h3>Main development skills: JavaScript, TypeScript, React, Redux &nbsp;💻⚛🚀</h3>
 
+<hr>
   
 <h3 align="left">Link to my: <a href="https://nedug.github.io/cv-alexander-r/" target="blank">Portfolio</a></h3>
 
