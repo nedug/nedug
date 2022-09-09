@@ -18,6 +18,6 @@
     <img  height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nedug&layout=compact&langs_count=4&theme=react&hide=HTML&hide_border=true"/>
     &nbsp;
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nedug&include_all_commits=true&show_icons=true&theme=react&count_private=true&hide_border=true"/>
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nedug&include_all_commits=true&theme=react&hide_border=true"/>
+    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nedug&include_all_commits=true&theme=react"/>
   </a>
 </div>
